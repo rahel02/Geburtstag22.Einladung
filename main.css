@@ -1,0 +1,17 @@
+body { 
+    margin: 0;
+    font-family: "source sans pro";
+min-height: 100vh;
+    display: grid;
+    place-content: center;
+    text-align: center;
+    background-color: darkslateblue;
+
+}
+
+h1{
+font-size: clamp(1rem, 3vw+ 1rem,4rem);
+    position: relative;
+ font-family: "source sans pro";
+    
+}
